@@ -1,3 +1,3 @@
 # landing-page
 
-Vanilla JS exersize exploring dynamic styling and event handlers.
+Vanilla JS excersize exploring dynamic styling and event handlers.
